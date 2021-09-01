@@ -1,4 +1,4 @@
-# transformer
+# transformer network zero to hero 
 
 this repo for my workshop Pie & AI: Baghdad - Under the Hood of Transformer Network
 https://www.eventbrite.com/e/pie-ai-baghdad-under-the-hood-of-transformer-network-tickets-165821465467
