@@ -3,6 +3,8 @@
 this repo for my workshop Pie & AI: Baghdad - Under the Hood of Transformer Network
 https://www.eventbrite.com/e/pie-ai-baghdad-under-the-hood-of-transformer-network-tickets-165821465467
 
+the recored videos for implminting the topics of the workshop in this url https://www.youtube.com/playlist?list=PLsu_bT2-wUK6c8ZL_bScPUS1TGKTxGXgf
+
 1- the repo contain block code for transformer implmention from zero 
 
 2- bert with tensorflow on Natural Language Processing with Disaster Tweets also can be found on kaggle via this link
